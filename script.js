@@ -2,7 +2,6 @@
 ENTREGA 05 - OBJETOS
 */
 
-const SALIR = 0
 
 function titleCase(str) {
     let splitStr = str.toLowerCase().split(' ');
